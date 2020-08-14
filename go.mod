@@ -1,4 +1,4 @@
-module github.com/eloj/go-eddy/v1
+module github.com/eloj/go-eddy
 
 go 1.15
 
